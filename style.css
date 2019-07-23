@@ -1,0 +1,12 @@
+body {
+    background-color: #FFEEE3;
+}
+
+.frame {
+    width: 250px;
+    height: 250px;
+    border: 2px solid white;
+    background-color: hotpink;
+
+}
+
